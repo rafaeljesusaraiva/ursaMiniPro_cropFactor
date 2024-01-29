@@ -3,9 +3,9 @@
     "short_name": "UMP4.6K Crop",
     "description": "Ursa Mini Pro 4.6K G1 Crop Factor Calculator",
     "start_url": "/ursaMiniPro_cropFactor/",
-    "background_color": "#ffffff",
+    "background_color": "#212529",
     "display": "standalone",
-    "theme_color": "#ffffff",
+    "theme_color": "#212529",
     "icons": [
         {
             "src": "./image/favicon-16x16.png",
