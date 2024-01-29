@@ -1,0 +1,31 @@
+{
+    "name": "Ursa Mini Pro 4.6K G1 Crop Calculator",
+    "short_name": "UMP4.6K Crop",
+    "description": "Ursa Mini Pro 4.6K G1 Crop Factor Calculator",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "./image/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./image/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./image/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./image/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
