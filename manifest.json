@@ -2,7 +2,7 @@
     "name": "Ursa Mini Pro 4.6K G1 Crop Calculator",
     "short_name": "UMP4.6K Crop",
     "description": "Ursa Mini Pro 4.6K G1 Crop Factor Calculator",
-    "start_url": "/",
+    "start_url": "/ursaMiniPro_cropFactor/",
     "background_color": "#ffffff",
     "display": "standalone",
     "theme_color": "#ffffff",
